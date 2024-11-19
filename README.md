@@ -1,6 +1,7 @@
 <h1>Hi, I'm Kimanzi! <br/><a href="https://github.com/joshmadakor1">Network Adminstrator</a>, <a href="https://www.linkedin.com/in/peter-kimanzi-8a1502196
 /">IT Consultant</a>
 
+
 <h2>👨‍💻Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -14,6 +15,11 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+
+<h2>📚 Education</h2>
+
+- [Bachelor of Science in Computer Science](https://youtu.be/MHsI8hJmggI?si=IweZ_LG8lQOBI6-Q)
 
 <h2>📺 Certifications</h2>
 
