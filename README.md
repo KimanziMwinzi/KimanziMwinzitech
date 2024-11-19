@@ -19,9 +19,9 @@
 
 <h2>📚 Education</h2>
 
-- [Bachelor of Science in Computer Science](https://youtu.be/MHsI8hJmggI?si=IweZ_LG8lQOBI6-Q)
+- [Bachelor of Science in Computer Science](https://imgur.com/a/V4GTTMi)
 
-<h2>📺 Certifications</h2>
+<h2>📜Certifications</h2>
 
 - [Customer Relationship Management](https://youtu.be/MHsI8hJmggI?si=IweZ_LG8lQOBI6-Q)
 - [Cisco Certified Network Associate(CCNA)](https://youtu.be/MHsI8hJmggI?si=IweZ_LG8lQOBI6-Q)
