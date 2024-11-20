@@ -1,6 +1,7 @@
-<h1>Hi, I'm Kimanzi! <br/><a href="https://github.com/joshmadakor1">Network Adminstrator</a>, <a href="https://www.linkedin.com/in/peter-kimanzi-8a1502196
+<h1>Hi👋 I'm Kimanzi! <br/><a href="https://github.com/joshmadakor1">Network Adminstrator</a>, <a href="https://www.linkedin.com/in/peter-kimanzi-8a1502196
 /">IT Consultant</a>
-
+ <h2>👨‍💻About Me:</h2>
+        <p>IT Consultant and Network Administrator, I specialize in designing, implementing, and managing secure, efficient, and scalable IT infrastructures. With expertise in network configuration, troubleshooting, and system optimization, I deliver tailored solutions that enhance connectivity and drive operational success. My results-driven approach ensures seamless integration of IT systems, proactive problem-solving, and robust security to empower businesses to thrive in a digital-first world..</p>
 
 <h2>👨‍💻Projects:</h2>
 
